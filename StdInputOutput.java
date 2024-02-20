@@ -1,7 +1,7 @@
 // Importing 'Scanner' class from 'java.util' package for reading input.
 import java.util.Scanner;
 
-public class Std_Input_Output {
+public class StdInputOutput {
 
     public static void main(String[] args) {
         // Creating a Scanner object.
@@ -17,7 +17,7 @@ public class Std_Input_Output {
         System.out.println(secondNumber);
         System.out.println(thirdNumber);
 
-        // Closeing Scanner object (prevent resource leaks)
+        // Closeing Scanner object (prevents resource leaks)
         sc.close();
     }
 }
