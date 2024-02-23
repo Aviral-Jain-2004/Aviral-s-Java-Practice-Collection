@@ -1,4 +1,4 @@
-// Task
+// Task:
 // Read an integer as input, print its first 10 multiples. Each multiple should be printed on a new line in the form: N x i = result.
 // Sample Input:
 // 2
